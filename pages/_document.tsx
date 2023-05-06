@@ -34,8 +34,8 @@ class MyDocument extends Document {
         {/* Favicon */}
         <link
           rel="shortcut icon"
-          type="image/svg"
-          href="https://marketplace.reservoir.tools/reservoir.svg"
+          type="image/jpg"
+          href="https://assets.coingecko.com/coins/images/29116/small/20230223_224134.jpg"
         />
 
         {/* Reservoir meta tags */}
